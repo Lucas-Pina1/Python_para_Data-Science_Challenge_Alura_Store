@@ -11,7 +11,7 @@ Analisar os dados de vendas de 4 lojas da Alura Store para identificar qual loja
 
 ## 📁 Estrutura do Projeto
 
-- `loja.csv` a `loja_4.csv`: Dados de cada loja  
+- `loja_1.csv` a `loja_4.csv`: Dados de cada loja  
 - `AluraStoreBr.ipynb`: Notebook com a análise  
 - `README.md`: Este documento
 
@@ -32,7 +32,7 @@ Analisar os dados de vendas de 4 lojas da Alura Store para identificar qual loja
 ## ▶️ Como Executar
 
 1. Clone o repositório ou envie os arquivos para o Google Colab  
-2. Execute o notebook `AluraStoreBr.ipynb`
+2. Execute o notebook `AluraStoreBrr.ipynb`
 
 ---
 
