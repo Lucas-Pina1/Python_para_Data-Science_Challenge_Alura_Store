@@ -1,6 +1,3 @@
-# Python_para_Data-Science_Challenge_Alura_Store
-
-
 # 🛒 Alura Store 
 
 ## 🎯 Objetivo
