@@ -1,7 +1,7 @@
 # Python_para_Data-Science_Challenge_Alura_Store
 
 
-# 🛒 Alura Store – Análise de Vendas
+# 🛒 Alura Store 
 
 ## 🎯 Objetivo
 
